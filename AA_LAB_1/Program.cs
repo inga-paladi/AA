@@ -9,7 +9,7 @@ namespace Fibonacci
 
         static void Main(string[] args)
         {
-            // MethodRecursive();
+            MethodRecursive();
             MethodIterative();
             MethodBinet();
             MethodGoldenRatio();
